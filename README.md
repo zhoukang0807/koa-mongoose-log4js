@@ -13,5 +13,6 @@ $ npm install
 $ node ./bin/www
 ``` 
 config 是配置文件包含数据库和端口
+
 *config this is config file includes db and port
 
